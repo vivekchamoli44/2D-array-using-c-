@@ -9,7 +9,7 @@ void main(){
             printf("Enter the %d%dth term :",i,j);
             scanf("%d",&a[i][j]);
         }
-    };
+    }                
     if(m==n){
         f=1;
         for(i=0;i<m;i++){
